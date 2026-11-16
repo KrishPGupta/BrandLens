@@ -1,0 +1,30 @@
+paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  external: data/external
+  models: models
+  db: data/sentiment.db
+  reports: reports
+
+data:
+  source: synthetic          # synthetic | csv
+  csv_path: data/raw/tweets.csv
+  random_seed: 42
+  val_size: 0.1
+  test_size: 0.2
+
+brands: [Nova, Pulse, Zenith]
+
+bot:
+  prob_cutoff: 0.7
+
+sentiment:
+  labels: [negative, neutral, positive]
+  tfidf_max_features: 20000
+  distilbert_name: distilbert-base-uncased
+
+drift:
+  window: 4
+  z_threshold: 2.0
+  min_baseline_weeks: 4
