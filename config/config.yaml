@@ -25,6 +25,6 @@ sentiment:
   distilbert_name: distilbert-base-uncased
 
 drift:
-  window: 4
+  window: 8
   z_threshold: 2.0
-  min_baseline_weeks: 4
+  min_baseline_weeks: 6
