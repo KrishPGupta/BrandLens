@@ -1,0 +1,11 @@
+{
+  "cutoff": 0.7,
+  "total_posts": 19500,
+  "removed_posts": 2483,
+  "removed_pct": 12.73,
+  "total_accounts": 1750,
+  "flagged_accounts": 250,
+  "post_precision": 1.0,
+  "post_recall": 1.0,
+  "bot_posts_remaining": 0
+}

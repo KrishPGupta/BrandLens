@@ -1,0 +1,43 @@
+{
+  "auc": 0.9999999999999999,
+  "cutoff": 0.7,
+  "report": {
+    "0": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 375.0
+    },
+    "1": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 63.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 438.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 438.0
+    }
+  },
+  "feature_importance": {
+    "followers": 0.0058,
+    "following": 0.0003,
+    "follower_ratio": 0.0358,
+    "account_age_days": 0.0556,
+    "posting_freq": 0.1076,
+    "url_ratio": 0.2777,
+    "hashtag_ratio": 0.3182,
+    "mention_ratio": 0.0119,
+    "dup_ratio": 0.1867,
+    "n_posts": 0.0002
+  }
+}
