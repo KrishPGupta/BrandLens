@@ -198,3 +198,11 @@ def predict_sentiment(req: PredictRequest):
               "probabilities": {l: float(r[f"prob_{l}"]) for l in LABELS}}
              for t, (_, r) in zip(req.texts, out.iterrows())]
     return {"model": req.model, "results": items}
+
+
+from fastapi.responses import RedirectResponse
+
+
+@app.get("/", include_in_schema=False)
+def root():
+    return RedirectResponse("/docs")
