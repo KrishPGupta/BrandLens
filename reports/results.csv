@@ -1,3 +1,4 @@
 model,accuracy,precision_macro,recall_macro,f1_macro
 tfidf_lr_val,0.9242,0.9131,0.925,0.9184
 tfidf_lr,0.9166,0.9051,0.9177,0.9107
+distilbert,0.9166,0.9051,0.9177,0.9107
