@@ -20,3 +20,6 @@
 - **Why is Zenith flagged?** A 3-sigma rule over many brand-weeks produces occasional false alarms. That is
   why alerts say "needs review", not "drift confirmed".
 - **Is the data real?** No. The pipeline is dataset-agnostic; config.yaml points it at a real CSV.
+
+7. **Model agreement.** On the 3,404 test posts TF-IDF and DistilBERT agree on 100%, and both make 284 errors
+   (8.3%). The synthetic labels carry about 8% word-label contradictions, so that is the ceiling for any model.

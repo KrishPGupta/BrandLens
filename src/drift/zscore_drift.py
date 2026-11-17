@@ -34,12 +34,10 @@ def detect_drift(weekly, window=12, threshold=3.0, min_baseline_weeks=8,
         flags[lab] = r["flag"]
     out["flag"] = flags.any(axis=1)
     drivers = []
-    for _, row in out.iterrows():
-        if not row["flag"]:
-            drivers.append("")
-            continue
-        lab = max(monitor, key=lambda l: abs(row[f"z_{l}"]) if pd.notna(row[f"z_{l}"]) else 0)
-        drivers.append(f"{lab} {'up' if row[f'z_{lab}'] > 0 else 'down'}")
+    for i in range(len(out)):
+        parts = [f"{lab} {'up' if out[f'z_{lab}'].iloc[i] > 0 else 'down'}"
+                 for lab in monitor if flags[lab].iloc[i]]
+        drivers.append(", ".join(parts))
     out["driver"] = drivers
     out["status"] = np.where(out["flag"], "needs review", "normal")   # flags, not verdicts
     return out
