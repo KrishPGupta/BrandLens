@@ -61,3 +61,10 @@ def load_results(table, cfg=None, brand=None):
 
 def save_explanations(df, cfg=None):
     _write(df, "explanations", cfg or load_config())
+
+
+def query(sql, params=(), cfg=None):
+    """Run a read-only SQL query and return a DataFrame."""
+    cfg = cfg or load_config()
+    with closing(get_conn(cfg)) as conn:
+        return pd.read_sql(sql, conn, params=params)
