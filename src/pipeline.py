@@ -12,6 +12,7 @@ from src.bot_detection import train_rf, filter as bot_filter
 from src.sentiment import baseline_lr
 from src.sentiment.evaluate import report
 from src.drift import zscore_drift
+from src.explain import shap_explainer
 from src.storage import db
 
 
@@ -57,7 +58,8 @@ def run_all(cfg=None, skip_train=False):
     results = resolve(cfg, "reports") / "results.csv"
     if results.exists():
         db.save_metrics(pd.read_csv(results), cfg)
-    for tbl in ["predictions", "weekly_drift", "alerts", "bot_stats", "model_metrics"]:
+    db.save_explanations(shap_explainer.run(cfg), cfg)
+    for tbl in ["predictions", "weekly_drift", "alerts", "bot_stats", "model_metrics", "explanations"]:
         try:
             print(f"  {tbl}: {len(db.load_results(tbl, cfg))} rows")
         except Exception:

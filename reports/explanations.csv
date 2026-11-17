@@ -1,0 +1,177 @@
+post_id,pred_label,token,shap_value,brand,text,confidence
+16137,positive,impressed,1.2023059521754997,Pulse,Pulse is impressed honestly #pulse,0.91874654059799
+16137,positive,impressed honestly,0.3053318515868735,Pulse,Pulse is impressed honestly #pulse,0.91874654059799
+16137,positive,pulse,0.1941974836370285,Pulse,Pulse is impressed honestly #pulse,0.91874654059799
+16137,positive,pulse impressed,0.1676723339851054,Pulse,Pulse is impressed honestly #pulse,0.91874654059799
+16137,positive,honestly,0.08022090942754886,Pulse,Pulse is impressed honestly #pulse,0.91874654059799
+16137,positive,honestly pulse,-0.07430923337955023,Pulse,Pulse is impressed honestly #pulse,0.91874654059799
+7877,positive,love,1.254075618945274,Pulse,thoughts on Pulse: love,0.8970663572461298
+7877,positive,pulse love,0.10619780632679042,Pulse,thoughts on Pulse: love,0.8970663572461298
+7877,positive,pulse,0.10081843194400818,Pulse,thoughts on Pulse: love,0.8970663572461298
+7877,positive,thoughts,0.03626504356149271,Pulse,thoughts on Pulse: love,0.8970663572461298
+7877,positive,thoughts pulse,0.02099023672551112,Pulse,thoughts on Pulse: love,0.8970663572461298
+14035,positive,superb,1.2885815698781036,Zenith,Zenith support was superb today http://t.co/fheaec,0.9834414879209286
+14035,positive,superb today,0.65713668492224,Zenith,Zenith support was superb today http://t.co/fheaec,0.9834414879209286
+14035,positive,support superb,0.65713668492224,Zenith,Zenith support was superb today http://t.co/fheaec,0.9834414879209286
+14035,positive,zenith support,0.10305543518980018,Zenith,Zenith support was superb today http://t.co/fheaec,0.9834414879209286
+14035,positive,zenith,0.07339507507387955,Zenith,Zenith support was superb today http://t.co/fheaec,0.9834414879209286
+14035,positive,support,0.03937537244757431,Zenith,Zenith support was superb today http://t.co/fheaec,0.9834414879209286
+13127,positive,reliable,1.273111855327607,Pulse,@sarah_k my Pulse order arrived and it is reliable,0.9575427362167269
+13127,positive,arrived reliable,0.49449223121250113,Pulse,@sarah_k my Pulse order arrived and it is reliable,0.9575427362167269
+13127,positive,pulse order,0.14391583483429873,Pulse,@sarah_k my Pulse order arrived and it is reliable,0.9575427362167269
+13127,positive,pulse,0.08994181763829719,Pulse,@sarah_k my Pulse order arrived and it is reliable,0.9575427362167269
+13127,positive,arrived,0.0404647791144899,Pulse,@sarah_k my Pulse order arrived and it is reliable,0.9575427362167269
+13127,positive,order,0.0404647791144899,Pulse,@sarah_k my Pulse order arrived and it is reliable,0.9575427362167269
+4063,positive,fantastic,1.1104358941740091,Pulse,just tried Pulse and it feels fantastic #pulse http://t.co/aihhig,0.9752679330315402
+4063,positive,feels fantastic,0.7915478242051425,Pulse,just tried Pulse and it feels fantastic #pulse http://t.co/aihhig,0.9752679330315402
+4063,positive,fantastic pulse,0.4444276169399366,Pulse,just tried Pulse and it feels fantastic #pulse http://t.co/aihhig,0.9752679330315402
+4063,positive,pulse,0.18067959654992027,Pulse,just tried Pulse and it feels fantastic #pulse http://t.co/aihhig,0.9752679330315402
+4063,positive,feels,0.019616029169165553,Pulse,just tried Pulse and it feels fantastic #pulse http://t.co/aihhig,0.9752679330315402
+4063,positive,tried,0.019616029169165553,Pulse,just tried Pulse and it feels fantastic #pulse http://t.co/aihhig,0.9752679330315402
+18395,positive,great,1.1477532438345472,Pulse,just tried Pulse and it feels great #pulse,0.9629543251978536
+18395,positive,great pulse,0.517443838657675,Pulse,just tried Pulse and it feels great #pulse,0.9629543251978536
+18395,positive,feels great,0.3839953528339671,Pulse,just tried Pulse and it feels great #pulse,0.9629543251978536
+18395,positive,pulse,0.17684456877890697,Pulse,just tried Pulse and it feels great #pulse,0.9629543251978536
+18395,positive,feels,0.01923053633078547,Pulse,just tried Pulse and it feels great #pulse,0.9629543251978536
+18395,positive,tried,0.01923053633078547,Pulse,just tried Pulse and it feels great #pulse,0.9629543251978536
+10868,positive,excellent,1.3831510030307248,Pulse,my Pulse order arrived and it is excellent,0.9753261901634532
+10868,positive,arrived excellent,0.8862468894038417,Pulse,my Pulse order arrived and it is excellent,0.9753261901634532
+10868,positive,pulse order,0.1422160360717985,Pulse,my Pulse order arrived and it is excellent,0.9753261901634532
+10868,positive,pulse,0.0881138226583724,Pulse,my Pulse order arrived and it is excellent,0.9753261901634532
+10868,positive,arrived,0.03993006052549448,Pulse,my Pulse order arrived and it is excellent,0.9753261901634532
+10868,positive,order,0.03993006052549448,Pulse,my Pulse order arrived and it is excellent,0.9753261901634532
+17577,positive,best,1.1752031578656055,Pulse,Pulse support was best today #pulse,0.9216108214095499
+17577,positive,best today,0.25009979859003895,Pulse,Pulse support was best today #pulse,0.9216108214095499
+17577,positive,support best,0.25009979859003895,Pulse,Pulse support was best today #pulse,0.9216108214095499
+17577,positive,pulse,0.18296483696287616,Pulse,Pulse support was best today #pulse,0.9216108214095499
+17577,positive,today pulse,-0.09411422903792753,Pulse,Pulse support was best today #pulse,0.9216108214095499
+17577,positive,support,0.03413735493875482,Pulse,Pulse support was best today #pulse,0.9216108214095499
+99,positive,reliable,1.3006970360119943,Nova,thoughts on Nova: reliable,0.9650632387862185
+99,positive,nova reliable,0.8682712726268255,Nova,thoughts on Nova: reliable,0.9650632387862185
+99,positive,thoughts nova,0.16336584156111028,Nova,thoughts on Nova: reliable,0.9650632387862185
+99,positive,thoughts,0.03446667132983854,Nova,thoughts on Nova: reliable,0.9650632387862185
+99,positive,nova,-0.02615144053066626,Nova,thoughts on Nova: reliable,0.9650632387862185
+9377,positive,fantastic,1.1104358941740091,Pulse,@gadgetfan just tried Pulse and it feels fantastic #pulse http://t.co/bjcajb,0.9752679330315402
+9377,positive,feels fantastic,0.7915478242051425,Pulse,@gadgetfan just tried Pulse and it feels fantastic #pulse http://t.co/bjcajb,0.9752679330315402
+9377,positive,fantastic pulse,0.4444276169399366,Pulse,@gadgetfan just tried Pulse and it feels fantastic #pulse http://t.co/bjcajb,0.9752679330315402
+9377,positive,pulse,0.18067959654992027,Pulse,@gadgetfan just tried Pulse and it feels fantastic #pulse http://t.co/bjcajb,0.9752679330315402
+9377,positive,feels,0.019616029169165553,Pulse,@gadgetfan just tried Pulse and it feels fantastic #pulse http://t.co/bjcajb,0.9752679330315402
+9377,positive,tried,0.019616029169165553,Pulse,@gadgetfan just tried Pulse and it feels fantastic #pulse http://t.co/bjcajb,0.9752679330315402
+14585,negative,scam,1.413889943042425,Pulse,just tried Pulse and it feels scam http://t.co/gdegcj,0.9400608619277157
+14585,negative,feels scam,0.8747950222468954,Pulse,just tried Pulse and it feels scam http://t.co/gdegcj,0.9400608619277157
+14585,negative,pulse feels,-0.018520082700628337,Pulse,just tried Pulse and it feels scam http://t.co/gdegcj,0.9400608619277157
+14585,negative,tried pulse,-0.018520082700628337,Pulse,just tried Pulse and it feels scam http://t.co/gdegcj,0.9400608619277157
+14585,negative,pulse,-0.014179233877446936,Pulse,just tried Pulse and it feels scam http://t.co/gdegcj,0.9400608619277157
+14585,negative,feels,-0.011182300402231142,Pulse,just tried Pulse and it feels scam http://t.co/gdegcj,0.9400608619277157
+11162,negative,terrible,1.2495521711956976,Zenith,Zenith support was terrible today #zenith,0.9307095074201852
+11162,negative,support terrible,0.39127783180250153,Zenith,Zenith support was terrible today #zenith,0.9307095074201852
+11162,negative,terrible today,0.39127783180250153,Zenith,Zenith support was terrible today #zenith,0.9307095074201852
+11162,negative,zenith,-0.09500966110253184,Zenith,Zenith support was terrible today #zenith,0.9307095074201852
+11162,negative,today zenith,0.08232647119174916,Zenith,Zenith support was terrible today #zenith,0.9307095074201852
+11162,negative,zenith support,0.05502771306796979,Zenith,Zenith support was terrible today #zenith,0.9307095074201852
+254,negative,awful,1.1250704326673577,Pulse,thoughts on Pulse: awful #pulse,0.8506139430711739
+254,negative,pulse awful,0.3619428893626931,Pulse,thoughts on Pulse: awful #pulse,0.8506139430711739
+254,negative,awful pulse,0.22969761421457585,Pulse,thoughts on Pulse: awful #pulse,0.8506139430711739
+254,negative,thoughts pulse,-0.09100698109481911,Pulse,thoughts on Pulse: awful #pulse,0.8506139430711739
+254,negative,pulse,-0.030914764058567364,Pulse,thoughts on Pulse: awful #pulse,0.8506139430711739
+254,negative,thoughts,-0.03013575538252197,Pulse,thoughts on Pulse: awful #pulse,0.8506139430711739
+6938,negative,hate,1.5693260131378903,Nova,thoughts on Nova: hate,0.824978921339449
+6938,negative,nova hate,-0.14951233394060573,Nova,thoughts on Nova: hate,0.824978921339449
+6938,negative,thoughts nova,-0.06321471368429687,Nova,thoughts on Nova: hate,0.824978921339449
+6938,negative,thoughts,-0.0438596692494264,Nova,thoughts on Nova: hate,0.824978921339449
+6938,negative,nova,0.042919440298584875,Nova,thoughts on Nova: hate,0.824978921339449
+18879,negative,broken,1.7043405670395042,Nova,@mikeR thoughts on Nova: broken http://t.co/afbigi,0.9301679570913397
+18879,negative,nova broken,0.5956480393687537,Nova,@mikeR thoughts on Nova: broken http://t.co/afbigi,0.9301679570913397
+18879,negative,thoughts nova,-0.062238654145782196,Nova,@mikeR thoughts on Nova: broken http://t.co/afbigi,0.9301679570913397
+18879,negative,thoughts,-0.04309055379210196,Nova,@mikeR thoughts on Nova: broken http://t.co/afbigi,0.9301679570913397
+18879,negative,nova,0.041952951891433055,Nova,@mikeR thoughts on Nova: broken http://t.co/afbigi,0.9301679570913397
+1105,negative,scam,1.1558126585306459,Pulse,thoughts on Pulse: scam #pulse,0.8029282654926045
+1105,negative,pulse scam,0.1777202679508591,Pulse,thoughts on Pulse: scam #pulse,0.8029282654926045
+1105,negative,scam pulse,0.17634018901660312,Pulse,thoughts on Pulse: scam #pulse,0.8029282654926045
+1105,negative,thoughts pulse,-0.09466956181658015,Pulse,thoughts on Pulse: scam #pulse,0.8029282654926045
+1105,negative,pulse,-0.03260468410583429,Pulse,thoughts on Pulse: scam #pulse,0.8029282654926045
+1105,negative,thoughts,-0.03158815030068815,Pulse,thoughts on Pulse: scam #pulse,0.8029282654926045
+7533,negative,garbage,1.3896652672432552,Nova,my Nova order arrived and it is garbage,0.9060420093303189
+7533,negative,arrived garbage,0.30201166547320374,Nova,my Nova order arrived and it is garbage,0.9060420093303189
+7533,negative,nova order,0.05712318419921112,Nova,my Nova order arrived and it is garbage,0.9060420093303189
+7533,negative,nova,0.03919434480337217,Nova,my Nova order arrived and it is garbage,0.9060420093303189
+7533,negative,arrived,0.007772839370405476,Nova,my Nova order arrived and it is garbage,0.9060420093303189
+7533,negative,order,0.007772839370405476,Nova,my Nova order arrived and it is garbage,0.9060420093303189
+6698,negative,annoying,1.3434086236643974,Zenith,@techguy just tried Zenith and it feels annoying,0.8637304393196379
+6698,negative,feels annoying,0.48331698751664337,Zenith,@techguy just tried Zenith and it feels annoying,0.8637304393196379
+6698,negative,zenith,-0.050276422597616034,Zenith,@techguy just tried Zenith and it feels annoying,0.8637304393196379
+6698,negative,tried zenith,-0.04865717765055352,Zenith,@techguy just tried Zenith and it feels annoying,0.8637304393196379
+6698,negative,zenith feels,-0.04865717765055352,Zenith,@techguy just tried Zenith and it feels annoying,0.8637304393196379
+6698,negative,feels,-0.011034241173787008,Zenith,@techguy just tried Zenith and it feels annoying,0.8637304393196379
+6129,negative,hate,1.4026156847174,Nova,@daily_deals just tried Nova and it feels hate,0.9353006014820495
+6129,negative,feels hate,0.6738740455106539,Nova,@daily_deals just tried Nova and it feels hate,0.9353006014820495
+6129,negative,nova feels,0.04107179713955727,Nova,@daily_deals just tried Nova and it feels hate,0.9353006014820495
+6129,negative,tried nova,0.04107179713955727,Nova,@daily_deals just tried Nova and it feels hate,0.9353006014820495
+6129,negative,nova,0.03611855326636411,Nova,@daily_deals just tried Nova and it feels hate,0.9353006014820495
+6129,negative,feels,-0.010758984903935651,Nova,@daily_deals just tried Nova and it feels hate,0.9353006014820495
+2854,negative,broken,1.2452691745788715,Zenith,Zenith support was broken today #zenith,0.9217776004937421
+2854,negative,broken today,0.38683621399556767,Zenith,Zenith support was broken today #zenith,0.9217776004937421
+2854,negative,support broken,0.38683621399556767,Zenith,Zenith support was broken today #zenith,0.9217776004937421
+2854,negative,zenith,-0.0943480384869684,Zenith,Zenith support was broken today #zenith,0.9217776004937421
+2854,negative,today zenith,0.08186307049886372,Zenith,Zenith support was broken today #zenith,0.9217776004937421
+2854,negative,zenith support,0.05469917381479425,Zenith,Zenith support was broken today #zenith,0.9217776004937421
+4070,neutral,version,1.0920443828337556,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+4070,neutral,arrived version,0.2226392115719515,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+4070,neutral,version pulse,0.17281932710114978,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+4070,neutral,pulse,-0.13452765273021425,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+4070,neutral,arrived,-0.031849243032878595,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+4070,neutral,order,-0.031849243032878595,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+7130,neutral,version,1.0920443828337556,Pulse,@daily_deals my Pulse order arrived and it is version #pulse,0.6293499432872361
+7130,neutral,arrived version,0.2226392115719515,Pulse,@daily_deals my Pulse order arrived and it is version #pulse,0.6293499432872361
+7130,neutral,version pulse,0.17281932710114978,Pulse,@daily_deals my Pulse order arrived and it is version #pulse,0.6293499432872361
+7130,neutral,pulse,-0.13452765273021425,Pulse,@daily_deals my Pulse order arrived and it is version #pulse,0.6293499432872361
+7130,neutral,arrived,-0.031849243032878595,Pulse,@daily_deals my Pulse order arrived and it is version #pulse,0.6293499432872361
+7130,neutral,order,-0.031849243032878595,Pulse,@daily_deals my Pulse order arrived and it is version #pulse,0.6293499432872361
+7762,neutral,version,1.0920443828337556,Pulse,my Pulse order arrived and it is version #pulse http://t.co/dehadh,0.6293499432872361
+7762,neutral,arrived version,0.2226392115719515,Pulse,my Pulse order arrived and it is version #pulse http://t.co/dehadh,0.6293499432872361
+7762,neutral,version pulse,0.17281932710114978,Pulse,my Pulse order arrived and it is version #pulse http://t.co/dehadh,0.6293499432872361
+7762,neutral,pulse,-0.13452765273021425,Pulse,my Pulse order arrived and it is version #pulse http://t.co/dehadh,0.6293499432872361
+7762,neutral,arrived,-0.031849243032878595,Pulse,my Pulse order arrived and it is version #pulse http://t.co/dehadh,0.6293499432872361
+7762,neutral,order,-0.031849243032878595,Pulse,my Pulse order arrived and it is version #pulse http://t.co/dehadh,0.6293499432872361
+9434,neutral,version,1.0920443828337556,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+9434,neutral,arrived version,0.2226392115719515,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+9434,neutral,version pulse,0.17281932710114978,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+9434,neutral,pulse,-0.13452765273021425,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+9434,neutral,arrived,-0.031849243032878595,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+9434,neutral,order,-0.031849243032878595,Pulse,my Pulse order arrived and it is version #pulse,0.6293499432872361
+15396,neutral,version,1.0920443828337556,Pulse,@newsdesk my Pulse order arrived and it is version #pulse,0.6293499432872361
+15396,neutral,arrived version,0.2226392115719515,Pulse,@newsdesk my Pulse order arrived and it is version #pulse,0.6293499432872361
+15396,neutral,version pulse,0.17281932710114978,Pulse,@newsdesk my Pulse order arrived and it is version #pulse,0.6293499432872361
+15396,neutral,pulse,-0.13452765273021425,Pulse,@newsdesk my Pulse order arrived and it is version #pulse,0.6293499432872361
+15396,neutral,arrived,-0.031849243032878595,Pulse,@newsdesk my Pulse order arrived and it is version #pulse,0.6293499432872361
+15396,neutral,order,-0.031849243032878595,Pulse,@newsdesk my Pulse order arrived and it is version #pulse,0.6293499432872361
+16757,neutral,version,1.0920443828337556,Pulse,my Pulse order arrived and it is version #pulse http://t.co/gddajf,0.6293499432872361
+16757,neutral,arrived version,0.2226392115719515,Pulse,my Pulse order arrived and it is version #pulse http://t.co/gddajf,0.6293499432872361
+16757,neutral,version pulse,0.17281932710114978,Pulse,my Pulse order arrived and it is version #pulse http://t.co/gddajf,0.6293499432872361
+16757,neutral,pulse,-0.13452765273021425,Pulse,my Pulse order arrived and it is version #pulse http://t.co/gddajf,0.6293499432872361
+16757,neutral,arrived,-0.031849243032878595,Pulse,my Pulse order arrived and it is version #pulse http://t.co/gddajf,0.6293499432872361
+16757,neutral,order,-0.031849243032878595,Pulse,my Pulse order arrived and it is version #pulse http://t.co/gddajf,0.6293499432872361
+34,neutral,announced,1.2967280078609693,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+34,neutral,announced nova,-0.09115761968505795,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+34,neutral,thoughts nova,-0.07142064176048527,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+34,neutral,nova announced,0.03411794815889079,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+34,neutral,nova,-0.02833980084639821,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+34,neutral,thoughts,0.006315260006190527,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+1548,neutral,announced,1.2967280078609693,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+1548,neutral,announced nova,-0.09115761968505795,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+1548,neutral,thoughts nova,-0.07142064176048527,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+1548,neutral,nova announced,0.03411794815889079,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+1548,neutral,nova,-0.02833980084639821,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+1548,neutral,thoughts,0.006315260006190527,Nova,thoughts on Nova: announced #nova,0.6359397647967375
+2341,neutral,announced,1.2967280078609693,Nova,@newsdesk thoughts on Nova: announced #nova,0.6359397647967375
+2341,neutral,announced nova,-0.09115761968505795,Nova,@newsdesk thoughts on Nova: announced #nova,0.6359397647967375
+2341,neutral,thoughts nova,-0.07142064176048527,Nova,@newsdesk thoughts on Nova: announced #nova,0.6359397647967375
+2341,neutral,nova announced,0.03411794815889079,Nova,@newsdesk thoughts on Nova: announced #nova,0.6359397647967375
+2341,neutral,nova,-0.02833980084639821,Nova,@newsdesk thoughts on Nova: announced #nova,0.6359397647967375
+2341,neutral,thoughts,0.006315260006190527,Nova,@newsdesk thoughts on Nova: announced #nova,0.6359397647967375
+4501,neutral,announced,1.2967280078609693,Nova,@gadgetfan thoughts on Nova: announced #nova,0.6359397647967375
+4501,neutral,announced nova,-0.09115761968505795,Nova,@gadgetfan thoughts on Nova: announced #nova,0.6359397647967375
+4501,neutral,thoughts nova,-0.07142064176048527,Nova,@gadgetfan thoughts on Nova: announced #nova,0.6359397647967375
+4501,neutral,nova announced,0.03411794815889079,Nova,@gadgetfan thoughts on Nova: announced #nova,0.6359397647967375
+4501,neutral,nova,-0.02833980084639821,Nova,@gadgetfan thoughts on Nova: announced #nova,0.6359397647967375
+4501,neutral,thoughts,0.006315260006190527,Nova,@gadgetfan thoughts on Nova: announced #nova,0.6359397647967375

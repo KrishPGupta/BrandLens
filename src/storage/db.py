@@ -57,3 +57,7 @@ def load_results(table, cfg=None, brand=None):
         sql, params = sql + " WHERE brand = ?", (brand,)
     with closing(get_conn(cfg)) as conn:
         return pd.read_sql(sql, conn, params=params)
+
+
+def save_explanations(df, cfg=None):
+    _write(df, "explanations", cfg or load_config())
