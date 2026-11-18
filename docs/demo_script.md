@@ -1,4 +1,4 @@
-# Demo script (about 6 minutes)
+# BrandLens: Demo script (about 6 minutes)
 
 1. **Pipeline.** Run `python -m src.pipeline --skip-train` (about 3 seconds). Say: raw posts, preprocessing,
    bot filtering, sentiment, drift and SHAP all write to SQLite.

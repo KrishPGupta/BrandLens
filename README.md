@@ -1,4 +1,4 @@
-# Sentiment Drift Monitor
+# BrandLens
 
 AI-based social media sentiment analysis for **brand sentiment drift detection**, with bot filtering and
 explainable predictions. Backend only: a pipeline that fills SQLite, and a REST API that any frontend can call.

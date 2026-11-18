@@ -1,4 +1,4 @@
-"""Brand Sentiment Drift API. Reads results the pipeline stored in SQLite.
+"""BrandLens API. Reads results the pipeline stored in SQLite.
    Run:  python -m uvicorn api.main:app --reload --port 8000     Docs: http://localhost:8000/docs"""
 import json
 from typing import Optional
@@ -19,7 +19,7 @@ LABELS = CFG["sentiment"]["labels"]
 BRANDS = CFG["brands"]
 
 app = FastAPI(
-    title="Brand Sentiment Drift API",
+    title="BrandLens API",
     version="1.0.0",
     description="Bot-filtered sentiment, drift alerts and SHAP explanations. "
                 "Alerts are flags that need review, not verdicts.",
