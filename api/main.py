@@ -206,3 +206,8 @@ from fastapi.responses import RedirectResponse
 @app.get("/", include_in_schema=False)
 def root():
     return RedirectResponse("/docs")
+
+
+from api.insights import router as insights_router
+
+app.include_router(insights_router)

@@ -31,3 +31,10 @@ drift:
 
 api:
   cors_origins: ["http://localhost:3000", "http://localhost:5173", "http://localhost:8080"]
+
+insights:
+  provider: auto              # auto | ollama | anthropic
+  ollama_model: llama3.2:3b
+  ollama_url: http://localhost:11434
+  anthropic_model: claude-sonnet-5-5
+  max_tokens: 900
