@@ -102,7 +102,7 @@ export default function LineChart({
           ))}
 
           {rows.map((r, i) =>
-            i % step === 0 || i === n - 1 ? (
+            (i % step === 0 && n - 1 - i >= step * 0.6) || i === n - 1 ? (
               <text key={`x${i}`} x={x(i)} y={H - 10} textAnchor="middle" fontSize="11" fill="var(--color-slate)">
                 {fmtWeek(r[xKey])}
               </text>
