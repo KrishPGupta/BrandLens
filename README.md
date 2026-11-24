@@ -56,7 +56,7 @@ DistilBERT is fine-tuned on a GPU (Google Colab, T4). Upload `data/processed/tra
 
     python -m src.sentiment.eval_distilbert
 
-Without this step the Models page shows only the baseline.
+The repo already includes the DistilBERT scores from our Colab run (`reports/results.csv`), so the Models page shows them on a fresh clone. The model weights (about 255 MB) are not in git, so live DistilBERT prediction through `/api/predict` needs this step.
 
 ## Tests
 
